@@ -35,5 +35,8 @@ cd Bank-ATM-PF-Project
 3. Compile the C++ code:
 g++ main.cpp -o BankATM
 
-4. Run the program:
+## Screenshot
+![Bank & ATM PF Project](media/screenshot.png)
+
+5. Run the program:
 ./BankATM
