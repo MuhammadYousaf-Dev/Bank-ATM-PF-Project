@@ -37,5 +37,13 @@ g++ main.cpp -o BankATM
 
 5. Run the program:
 ./BankATM
-## Screenshot
-![Bank & ATM PF Project](media/screenshot.png)
+
+
+### ATM Menu
+![ATM Menu](media/screenshot1.png)
+
+### Bank Menu
+![Bank Menu](media/screenshot2.png)
+
+### Transaction Example
+![Transaction](media/screenshot3.png)
