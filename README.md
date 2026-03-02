@@ -25,6 +25,7 @@ Bank-ATM-PF-Project/
 
 
 ## How to Run
+
 1. Clone the repository:
 git clone https://github.com/MuhammadYousaf-Dev/Bank-ATM-PF-Project.git
 
